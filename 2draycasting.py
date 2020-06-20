@@ -1,7 +1,6 @@
 from tkinter import *
 import numpy as np
 import random as rn
-import Raycasting_Func as rayF
 
 # needed functions
 
