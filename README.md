@@ -6,9 +6,9 @@ Tkinter worked real fine.
 
 The following are used:
 
-- 'tkinter'
-- 'numpy'
-- 'random'
+- `numpy`
+- `random`
+- `tkinter`
 
 # Instructions
 
