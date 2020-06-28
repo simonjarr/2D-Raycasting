@@ -15,4 +15,6 @@ The following are used:
 Just run the script and the animation will start. 
 Almost every line of code is commented and you can play with masses, lengths of rods, initial conditions etc.
 
+# Contact:
+
 Göktuğ Saray / goktugsaray@gmail.com
