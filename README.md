@@ -12,8 +12,8 @@ The following are used:
 
 # Instructions
 
-Just run the script and the animation will start. 
-Almost every line of code is commented and you can play with masses, lengths of rods, initial conditions etc.
+Just run the script and casting will start.
+You can move the light source just by dragging your mouse through window.
 
 # Contact:
 
