@@ -17,4 +17,4 @@ You can move the light source just by dragging your mouse through window.
 
 # Contact:
 
-Göktuğ Saray / goktugsaray@gmail.com
+Göktuğ Saray / goktugsaray1@gmail.com
